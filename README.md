@@ -1,1 +1,4 @@
-# chankinsoft.github.io
+# chankinsoft
+personal website hosted on github
+
+cheers
